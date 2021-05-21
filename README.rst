@@ -1,7 +1,5 @@
-Hesaplamali Anlambilim 2.ODEV
-================================
-
 Sentiment Analysis Project
+================================
 
 
  * For using run the command below in the project folder:
