@@ -1,0 +1,32 @@
+#################################################
+############ DATA QUALITY RESULT ################
+#################################################
+
+Number of sample in data set:83227.
+Number of classes in data set: 2 and they are: [1 0].
+Columns in data set:['comment', 'film_name', 'point', 'sentiment'].
+
+None.
+
+
+
+############## SUMMARY STATISTICS ###############
+
+              point     sentiment
+count  83227.000000  83227.000000
+mean       3.415253      0.525094
+std        1.337989      0.499373
+min        0.500000      0.000000
+25%        2.500000      0.000000
+50%        4.000000      1.000000
+75%        4.500000      1.000000
+max        5.000000      1.000000.
+
+
+
+############## NULL PERCENTAGES #################
+
+Column: comment  percent of null values:  %0.0.
+Column: film_name  percent of null values:  %0.0.
+Column: point  percent of null values:  %0.0.
+Column: sentiment  percent of null values:  %0.0.
